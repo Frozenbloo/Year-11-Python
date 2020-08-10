@@ -1,0 +1,12 @@
+2345,Doc,Walker,107,102,117
+2376,Harry,Owens,29,53,62
+6587,Ellie,Wilson,88,78,65
+8995,Anna,Scott,58,55,52,
+2541,Colin,Dunn,105,105,105
+3365,R2,D2,120,119,118
+8874,C3,PO,119,120,118
+1224,Obi-Wan,Kenobi,115,102,110
+9752,Boba, Fett,89,92,95
+9823,Han,Solo,95,97,96,
+8752,Po,Dameron,67,64,58
+1225,Maz,Kanata,90,88,85
